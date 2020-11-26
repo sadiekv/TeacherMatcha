@@ -1,0 +1,236 @@
+/** universal **/
+.container{
+    background-image: url('./Assets/intro-bg.jpg');
+    font-family: 'Roboto', sans-serif;
+}
+
+
+
+/** header **/
+#header {
+    margin-top:20px;
+}
+
+
+#main-menu li a.active{
+font-family: 'Roboto', sans-serif;
+color: #3aa79c;
+}
+
+#main-menu li a{
+    font-family: 'Roboto', sans-serif;
+    color: #000;
+    font-weight: 700;
+    }
+
+
+
+    /** body **/
+
+#row-one{
+    margin-top:100px;
+}    
+#big-intro h1{
+    font-size: 50px;
+    font-weight: 100;
+   
+
+}
+span.emphasis{
+    color: #3aa79c;
+    font-family:  'Roboto', sans-serif;
+    font-weight: 100;   
+    font-size: 2rem;
+    font-size: 50px;
+    font-weight: 100;
+}
+
+#intro-summary{
+    color:#a5afc5
+}
+
+#signupRow{
+    text-align: center;
+    font-size: 14px;
+}
+
+#signupIcons{
+    color: #3aa79c;
+    padding-bottom: 15px;
+    padding-top: 15px;
+}
+
+p #iconTitle {
+    font-weight: 200px;
+}
+
+.btn-outline-light{
+    background: #3aa79c;
+}
+
+#row-two{
+    margin-top:200px;
+}
+
+#contactSide{
+    padding: 25px;
+}
+
+#contactIntro h1{
+    font-size: 40px;
+    font-weight: 100;
+}
+
+#contactSummary{
+    color:#a5afc5
+}
+
+.form-group{
+    padding-top: 30px;
+}
+
+.form-control{
+    font-size: 12px;
+    color: #757d8d;
+}
+
+span#sendMessage {
+
+    font-size: 14px;
+    font-weight: 150;
+}
+
+#map{
+    padding-top: 100px;
+    padding-left: 100px;
+}
+
+#row-three{
+    margin-top:200px;
+}
+
+#features h1{
+    font-size: 40px;
+    font-weight: 100;
+}
+
+#featuresSummary{
+    padding-top: 20px;
+    color:#a5afc5;
+}
+
+#featuresIcons{
+    color: #3aa79c;
+}
+
+#featuresNumbers{
+    text-align: center;
+    font-weight: 700;
+    font-size: 20px;
+}
+
+#numberLabels{
+    text-align: center;
+}
+
+#featurePictures{
+    padding-top: 30px;
+}
+
+#picCaption{
+    padding-top: 15px;
+    color: #3aa79c;
+    font-size: 14px;
+    font-weight: 700;
+}
+
+#picSummary{
+    color:#a5afc5;
+    font-size: 14px;
+    font-weight: 700;
+}
+
+#row-Four{
+    margin-top:200px; 
+}
+
+#primaryTitle{
+    font-size: 40px;
+    font-weight: 100;
+}
+
+#progressLabel{
+    padding-top: 40px;
+}
+
+#submitButtonFocus{
+    padding-top: 20px;
+    text-align: center;
+}
+
+#shadowBoxes{
+    margin-top: 60px;
+}
+
+#worldIcon, #influencerIcon{
+    color: #3aa79c;
+    padding-left:30%;
+    padding-bottom: 20px;
+}
+
+#webmarketingIconTitle, #influencerIconTitle{
+    text-align: center;
+}
+
+#webmarketingIconSummary, #influencerIconSummary{
+    color:#a5afc5;
+    font-size: 12px;
+}
+
+#row-Five{
+    padding-top: 200px;
+}
+
+#row-Five h1{
+    font-size: 50px;
+    font-weight: 100;  
+    text-align: center;
+}
+
+
+
+#iphone{
+    padding-top: 20px;
+    padding-left: 10px;
+}
+
+#android{
+    padding-top: 20px;
+    padding-left: 300px;
+}
+
+#row-Six{
+    margin-bottom: 100px;
+}
+
+#footer{
+    background:#3aa79c;
+}
+
+#logoGreen{
+    padding-left: 20%;
+    padding-top: 25px;
+    padding-bottom: 30px;
+}
+
+#companyLocation{
+    padding-top:25px;
+    text-align: center;
+    font-size: 14px;
+    font-weight: 700px;
+    color: white;
+}
+
+#socialMedia{
+    padding-top: 25px;
+}
